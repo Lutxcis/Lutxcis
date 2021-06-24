@@ -1,0 +1,3 @@
+-👋 Hi, I’m @Lutxcis
+-👀 I’m interested in programming codes and games, sometimes I try drawing and I watch a lot of TV series.
+-🌱 I’m currently learning Unity and Python.
